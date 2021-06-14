@@ -12,7 +12,3 @@
 https://vietvisa.github.io/vietnam-visa-mimo/
 
 #### Related Document (N/A)
-
-
-### Authors
-**James - Minh** - *Initial work* - [github](https://github.com/jamesmoonlee)
